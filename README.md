@@ -13,7 +13,7 @@ The lightbox is implemented using the lightbox-plus-jquery.js library, providing
 
 ## Files Included
 
-  • index.html: The main HTML file that serves as the entry point for the website.
+      • index.html: The main HTML file that serves as the entry point for the website.
   • style.css: The CSS file containing styles for the entire website, ensuring a visually appealing layout.
   • app.js: JavaScript file responsible for interactive elements and dynamic behavior of the website.
   • lightbox.css: Styles specific to the lightbox functionality, enhancing the image viewing experience.
