@@ -1,11 +1,11 @@
 # Multimedia-Portfolio-Website
 Welcome to my multimedia portfolio website! This repository showcases my skills and projects through a visually appealing and interactive portfolio. Feel free to explore the various sections and get to know more about my work.
 
-Demo
+# Demo
 
 You can see a live demo of the website using the URL : 
 
-Description
+# Description
 
 This multimedia portfolio website is designed to highlight my projects using a combination of HTML, CSS, and JavaScript. The website features an index.html file as the main page, style.css for styling, app.js for interactivity, and additional files for the lightbox functionality.
 
