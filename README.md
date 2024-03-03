@@ -3,7 +3,7 @@ Welcome to my multimedia portfolio website! This repository showcases my skills 
 
 ## Demo
 
-You can see a live demo of the website using the URL : 
+You can see a live demo of the website using the URL: (https://github.com/Hasini-Weeraddana/Multimedia-Portfolio-Website)
 
 ## Description
 
