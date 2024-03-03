@@ -1,7 +1,7 @@
 # Multimedia-Portfolio-Website
 Welcome to my multimedia portfolio website! This repository showcases my skills and projects through a visually appealing and interactive portfolio. Feel free to explore the various sections and get to know more about my work.
 
-#Demo
+Demo
 
 You can see a live demo of the website using the URL : 
 
@@ -13,12 +13,12 @@ The lightbox is implemented using the lightbox-plus-jquery.js library, providing
 
 Files Included
 
-index.html: The main HTML file that serves as the entry point for the website.
-style.css: The CSS file containing styles for the entire website, ensuring a visually appealing layout.
-app.js: JavaScript file responsible for interactive elements and dynamic behavior of the website.
-lightbox.css: Styles specific to the lightbox functionality, enhancing the image viewing experience.
-lightbox-plus-jquery.js: A library for implementing the lightbox feature, enhancing the user experience when viewing images.
-images/: A folder containing images related to projects and portfolio items.
+  • index.html: The main HTML file that serves as the entry point for the website.
+  • style.css: The CSS file containing styles for the entire website, ensuring a visually appealing layout.
+  • app.js: JavaScript file responsible for interactive elements and dynamic behavior of the website.
+  • lightbox.css: Styles specific to the lightbox functionality, enhancing the image viewing experience.
+  • lightbox-plus-jquery.js: A library for implementing the lightbox feature, enhancing the user experience when viewing images.
+  • images/: A folder containing images related to projects and portfolio items.
 
 Contributing
 
